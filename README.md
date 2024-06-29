@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnabhit" alt="arnabhit" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind Css, React js**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://arnabhit.github.io/Portfolio1/](https://arnabhit.github.io/Portfolio1/)
 
